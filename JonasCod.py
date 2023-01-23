@@ -183,7 +183,7 @@ except ValueError:          #Pode ter uma mensagem expecífica para os erros
 else:
     print(f'O resultado é {r}')
 finally:
-    print('Volte sempre!\n')
+    print('Volte sempre!\n')'''
 
 
         #Listas
@@ -205,4 +205,30 @@ for itens in par:
 for itens1 in imp:
     print(imp[1])
 for itens2 in filme:
-    print(filme[3])'''
+    print(filme[3])
+
+list = []
+for unm in range(2,82,2):
+    list.append(unm)
+print(list,end=" ")
+print("\n")
+
+for um in range(0,5):
+    lis = int(input('Insira um indice : '))
+    li = int(input('Insira um indice : '))
+    list.insert(lis,li)
+print(list)
+print("\n")
+
+import random
+p = 0
+while p <6:
+    indicy = random.randint(0,39)
+    value = random.randint(2,80)
+    list.insert(indicy,value)
+    if value < value-1:
+        print("O valor é menor")
+    p = p+1
+    print(list)
+print('\n')
+
