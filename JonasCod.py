@@ -1,4 +1,5 @@
-'''#Bibiotecas
+#Bibiotecas
+
 from math import sqrt
 from time import sleep
 import random
@@ -183,7 +184,7 @@ except ValueError:          #Pode ter uma mensagem expecífica para os erros
 else:
     print(f'O resultado é {r}')
 finally:
-    print('Volte sempre!\n')'''
+    print('Volte sempre!\n')
 
 
         #Listas
@@ -231,4 +232,3 @@ while p <6:
     p = p+1
     print(list)
 print('\n')
-
