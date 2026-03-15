@@ -1,4 +1,7 @@
-   Símbolos
+		Python
+(Pode haver problemas de organização devido á transferência do .txt para .md)
+
+	Símbolos
 string  | palavras
 int     | inteiro
 float   | quebrado
