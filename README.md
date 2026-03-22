@@ -1,18 +1,19 @@
-# 🐍 Python Intermediate Knowledge Base
+# 🐍 Python: Base de Conhecimento
 
-Este repositório reúne **anotações, exemplos práticos e estudos em Python**, com foco em um nível **intermediário da linguagem**.
+Este repositório reúne **anotações, exemplos práticos e alguns estudos em Python**, com foco em aprender lógica de programação.
 
-Aqui estão organizados conceitos importantes que vão além do básico, incluindo:
+Aqui estão organizados conceitos como:
 
-* manipulação de dados
-* funções mais avançadas
-* Programação Orientada a Objetos
-* módulos e arquivos
+* tipos de dados
+* estruturas condicionais e de repetição
+* funções
+* listas, tuplas e dicionários
+* manipulação de strings
+* módulos básicos
 * tratamento de erros
-* recursos intermediários da linguagem
-* boas práticas de código
+* organização de código
 
-O objetivo é manter uma **base organizada de conhecimento em Python**, contendo teoria e implementações práticas.
+O objetivo é manter uma **base organizada de conhecimento em Python**, contendo teoria e exemplos práticos.
 
 ---
 
@@ -20,12 +21,12 @@ O objetivo é manter uma **base organizada de conhecimento em Python**, contendo
 
 Este projeto foi criado para:
 
-* consolidar conhecimentos em **Python**
-* praticar conceitos importantes da linguagem
-* armazenar **anotações teóricas**
-* organizar **exemplos práticos em código**
-* servir como **repositório de estudo e consulta**
-* demonstrar evolução no aprendizado da linguagem
+* consolidar conhecimentos em Python
+* praticar conceitos fundamentais da linguagem
+* armazenar anotações teóricas
+* organizar exemplos práticos em código
+* servir como repositório de estudo e consulta
+* demonstrar evolução no aprendizado
 
 ---
 
@@ -35,74 +36,70 @@ O repositório é dividido em duas partes principais.
 
 ## 📄 Anotações
 
-Um arquivo `.txt` contendo:
+Um arquivo `.md` contendo:
 
 * resumos de conteúdo
-* observações importantes
 * sintaxe da linguagem
-* boas práticas
-* conceitos intermediários
-* dicas e lembretes de estudo
+* exemplos básicos
+* conceitos fundamentais
+* observações importantes
 
 ---
 
 ## 💻 Códigos em Python
 
-Uma pasta contendo vários arquivos `.py` com exemplos e implementações dos principais conceitos estudados.
+Uma pasta contendo arquivos `.py` com exemplos dos conceitos estudados.
 
 ---
 
 # 🧠 Conceitos Estudados
 
-## 🔹 Fundamentos Intermediários
+## 🔹 Fundamentos
 
-* funções
-* parâmetros e retorno
-* escopo de variáveis
-* listas, tuplas, conjuntos e dicionários
-* compreensão de listas
-* manipulação de strings
-* desempacotamento
+* tipos de dados (`int`, `float`, `str`, `bool`)
 * operadores lógicos e relacionais
+* entrada e saída de dados
+* manipulação de strings
 
 ---
 
-## 🔹 Funções e Recursos da Linguagem
+## 🔹 Estruturas de Controle
 
-* funções anônimas com `lambda`
-* uso de `map`, `filter` e `reduce`
-* argumentos posicionais e nomeados
-* `*args` e `**kwargs`
-* funções recursivas
-* modularização de código
+* if / elif / else
+* laço `for`
+* laço `while`
+* uso de `break` e `continue`
 
 ---
 
-## 🔹 Arquivos e Módulos
+## 🔹 Funções
 
-* leitura de arquivos
-* escrita em arquivos
-* manipulação de caminhos
-* importação de módulos
-* criação de módulos próprios
-* organização de código em arquivos separados
+* criação de funções
+* parâmetros
+* parâmetros opcionais
+* retorno com `return`
+
+---
+
+## 🔹 Estruturas de Dados
+
+* listas
+* tuplas
+* dicionários
+
+---
+
+## 🔹 Módulos
+
+* uso de `import`
+* biblioteca `math`
+* noções de bibliotecas externas
 
 ---
 
 ## 🔹 Tratamento de Erros
-* tratamento de exceções comuns
-* criação de exceções personalizadas
-* controle de erros em arquivos e operações
 
----
-
-## 🔹 Boas Práticas
-* organização de arquivos
-* reutilização de código
-* clareza na escrita
-* separação de responsabilidades
-* legibilidade
-* estrutura modular
+* uso de `try`, `except`, `else` e `finally`
 
 ---
 
@@ -110,28 +107,27 @@ Uma pasta contendo vários arquivos `.py` com exemplos e implementações dos pr
 
 Este repositório serve como:
 
-* 📚 material de estudo de Python intermediário
-* 🧠 reforço de conceitos importantes da linguagem
-* 💻 prática com exemplos reais
-* 📂 portfólio de evolução em programação
+* material de estudo de Python
+* reforço de conceitos fundamentais
+* prática com exemplos
+* organização do aprendizado
 
 ---
 
 # 🚀 Possíveis Expansões
 
-Futuramente o repositório pode incluir:
+Futuramente pode incluir:
 
-* automação com Python
+* leitura e escrita de arquivos
+* programação orientada a objetos
 * manipulação de dados
 * consumo de APIs
-* testes automatizados
-* pequenos projetos práticos
-* organização de projetos profissionais
 
 ---
 
 # 👨‍💻 Autor
 
-Desenvolvido por **Jonas Eduardo Campos Martins**
-Estudante de **Ciência da Computação** com foco em desenvolvimento de software.
+Desenvolvido por **Jonas Eduardo Campos Martins**  
+Estudante de Ciência da Computação  
+
 Este projeto está sob a licença MIT.
