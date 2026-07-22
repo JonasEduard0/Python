@@ -1,4 +1,4 @@
-# 🐍 Python: Base de Conhecimento
+# 🐍 Python: Conhecimento Base
 
 Este repositório reúne **anotações, exemplos práticos e alguns estudos em Python**, com foco em aprender lógica de programação.
 
@@ -27,28 +27,6 @@ Este projeto foi criado para:
 * organizar exemplos práticos em código
 * servir como repositório de estudo e consulta
 * demonstrar evolução no aprendizado
-
----
-
-# 📚 Conteúdo do Repositório
-
-O repositório é dividido em duas partes principais.
-
-## 📄 Anotações
-
-Um arquivo `.md` contendo:
-
-* resumos de conteúdo
-* sintaxe da linguagem
-* exemplos básicos
-* conceitos fundamentais
-* observações importantes
-
----
-
-## 💻 Códigos em Python
-
-Uma pasta contendo arquivos `.py` com exemplos dos conceitos estudados.
 
 ---
 
@@ -81,14 +59,6 @@ Uma pasta contendo arquivos `.py` com exemplos dos conceitos estudados.
 
 ---
 
-## 🔹 Estruturas de Dados
-
-* listas
-* tuplas
-* dicionários
-
----
-
 ## 🔹 Módulos
 
 * uso de `import`
@@ -115,7 +85,6 @@ Este repositório serve como:
 ---
 
 # 🚀 Possíveis Expansões
-
 Futuramente pode incluir:
 
 * leitura e escrita de arquivos
